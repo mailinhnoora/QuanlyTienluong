@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|d:\\qll\\ui\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\dal\\bangluongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:dal\\bangluongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmbangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmbangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmbangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmbangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\ui\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:ui\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|D:\\QLL\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03556AA0-744A-4CE4-BFAC-A710D31FEFB3}|QLL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BangLuongDAL.cs",
+              "DocumentMoniker": "D:\\QLL\\DAL\\BangLuongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\BangLuongDAL.cs",
+              "ToolTip": "D:\\QLL\\DAL\\BangLuongDAL.cs",
+              "RelativeToolTip": "DAL\\BangLuongDAL.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:48:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChamCong.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmChamCong.cs",
+              "RelativeDocumentMoniker": "UI\\frmChamCong.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmChamCong.cs [Design]",
+              "RelativeToolTip": "UI\\frmChamCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChamCong.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmChamCong.cs",
+              "RelativeDocumentMoniker": "UI\\frmChamCong.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmChamCong.cs",
+              "RelativeToolTip": "UI\\frmChamCong.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAWwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "UI\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "UI\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmMain.cs",
+              "RelativeDocumentMoniker": "UI\\frmMain.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmMain.cs [Design]",
+              "RelativeToolTip": "UI\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "UI\\frmNhanVien.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "UI\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBangLuong.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmBangLuong.cs",
+              "RelativeDocumentMoniker": "UI\\frmBangLuong.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmBangLuong.cs",
+              "RelativeToolTip": "UI\\frmBangLuong.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmMain.cs",
+              "RelativeDocumentMoniker": "UI\\frmMain.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmMain.cs",
+              "RelativeToolTip": "UI\\frmMain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBangLuong.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmBangLuong.cs",
+              "RelativeDocumentMoniker": "UI\\frmBangLuong.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmBangLuong.cs [Design]",
+              "RelativeToolTip": "UI\\frmBangLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "UI\\frmDangNhap.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "UI\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "UI\\frmDoiMatKhau.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "UI\\frmDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDoiMatKhau.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "UI\\frmDoiMatKhau.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmDoiMatKhau.cs",
+              "RelativeToolTip": "UI\\frmDoiMatKhau.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "UI\\frmNhanVien.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmNhanVien.cs",
+              "RelativeToolTip": "UI\\frmNhanVien.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAnwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\frmDangNhap.Designer.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmDangNhap.Designer.cs",
+              "RelativeToolTip": "UI\\frmDangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:16:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\QLL\\DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DAL\\DBConnection.cs",
+              "ToolTip": "D:\\QLL\\DAL\\DBConnection.cs",
+              "RelativeToolTip": "DAL\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:38:40.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "UI\\frmDangNhap.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmDangNhap.cs*",
+              "RelativeToolTip": "UI\\frmDangNhap.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAADgv0sAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "D:\\QLL\\UI\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "UI\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\QLL\\UI\\frmTaiKhoan.cs",
+              "RelativeToolTip": "UI\\frmTaiKhoan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\QLL\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Models\\Models.cs",
+              "ToolTip": "D:\\QLL\\Models\\Models.cs",
+              "RelativeToolTip": "Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QLL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\QLL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:55:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\QLL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\baitapc#\\QLL\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\baitapc#\\QLL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-03-23T09:55:11.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
